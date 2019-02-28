@@ -1,0 +1,11 @@
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp2.0\DotNetCoreWebApp.deps.json
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp2.0\DotNetCoreWebApp.runtimeconfig.json
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp2.0\DotNetCoreWebApp.runtimeconfig.dev.json
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp2.0\DotNetCoreWebApp.dll
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp2.0\DotNetCoreWebApp.pdb
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.csprojAssemblyReference.cache
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.AssemblyInfoInputs.cache
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.AssemblyInfo.cs
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.dll
+C:\Users\faisa\source\repos\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp2.0\DotNetCoreWebApp.pdb
